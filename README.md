@@ -7,6 +7,8 @@ A program that calculates the Inverse, Aultiplication, Addition, Determinant and
 
 -------Huffman Compression in Java-------
 
+This was an assignment I have completed in my Algorithms module.
+
  An implementation of a fully functional Huffman coding suite equipped with methods to both compress and decompress text files.
  A hand-drawn Huffman tree with a codeword table for the given phrase 'There is no place like home'.
  Analysis of the algorithm’s performance.
