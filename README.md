@@ -1,12 +1,10 @@
 # Java-and-C-Projects
 
--------Matrix Calculator in C-------
+## Matrix Calculator in C
 
 A program that calculates the Inverse, Multiplication, Addition, Determinant and Transpose.
 
-
--------Huffman Compression in Java-------
-
+## Huffman Compression in Java
 This was an assignment I had done in my Algorithms module.
 
  An implementation of a fully functional Huffman coding suite equipped with methods to both compress and decompress text files.
